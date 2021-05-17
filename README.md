@@ -1,6 +1,6 @@
 # Data_hw3
 
-##資料處理和判讀
+## 資料處理和判讀
 
 資料主要由時間(time)、生產(generation)、消耗(consumption)構成。
 
